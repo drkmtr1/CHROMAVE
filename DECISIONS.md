@@ -32,3 +32,13 @@ PLAN-001 direction and its M1 task are approved under D-002. Exact feature/behav
 - Affected records: TASK-002, DESIGN-001 and review/readiness evidence, current state, MASTER_SPEC disposition pointer and TODO.
 - Limitations: M1 acceptance, experiment execution, application code/tests, scaffold, dependency installs, final V1 feature freeze, release/publication and successor work remain outside this authorization. Historical TASK-001/PLAN-001 preserve their original unapproved-at-authorship status; this decision supplies current disposition.
 - Revisit/stop: finish M1 review/evidence/checkpoint, then `M1_AWAITING_PRODUCT_OWNER_ACCEPTANCE`. Owner acceptance and any next task authorization remain separate.
+
+## D-003 — Explicit public documentation disclosure and push authorization
+
+- Actual authorizer/provenance: Will, direct message on 2026-10-05, “Push them all please and continue,” replying to the explicit request to publish all14 documentation files, including product brief, plans, decisions, findings, review history and superseded revisions, to public `drkmtr1/CHROMAVE`.
+- Selected disposition: permit public disclosure and normal push of the complete14-file payload listed in TASK-002, including routine reconciliation of these existing authorization/state/finding/task records. The prior F-011 approval prerequisite is now supplied directly by the owner; a successful push/equality check is still required for closure.
+- Scope: preserve the exact reviewed DESIGN revision3 and source/plan identities; update DECISIONS, PROJECT_STATE, TODO and TASK-002 to record permission/results; commit and push to existing origin/main without force, verify local/tracking/live equality after the last tracked mutation. No new public artifact, repository or release is created.
+- Rationale: resolve the exact public disclosure gate raised by automatic approval review and save the reviewed documentation remotely.
+- Alternatives: retain local-only documentation or omit parts of the payload. The owner explicitly selected all documents.
+- Boundary: “continue” unambiguously authorizes completion of this displayed publication/checkpoint gate. It does not explicitly select the three M1 behavior choices or a bounded EXP-001 execution task; a concise clarification has been requested while publication proceeds. No experiment/code/installation/successor authority or milestone acceptance is recorded from ambiguity.
+- Revisit: new owner response may settle M1 and next-task scope separately. Preserve the original rejection as historical evidence; this permission permits a new direct normal push, not a workaround.

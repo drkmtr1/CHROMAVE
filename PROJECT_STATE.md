@@ -4,7 +4,7 @@
 
 - Product/project baseline: **NOT ESTABLISHED**.
 - Accepted release: **NONE**.
-- Current authorized task: **NONE — TASK-002 local M1 delivery completed; owner disposition required**.
+- Current authorized task: **TASK-002 publication/checkpoint continuation under D-003**; M1 local delivery complete.
 - Active assignments: **NONE**; design author, technical reviewer/follow-ups and distinct fresh readiness/follow-up completed.
 - Product or candidate acceptance: **PLAN-001 direction approved under D-002; no M1/application acceptance**.
 
@@ -14,7 +14,7 @@ The neutral baseline was verified before TASK-001. Will approved PLAN-001 and au
 
 ## Next authorized action
 
-**STOP: `M1_AWAITING_PRODUCT_OWNER_ACCEPTANCE`.** Product Owner decides M1 revision3 and its three behavior proposals. EXP-001 execution/application implementation need separate bounded authorization; no successor starts automatically. Separately, F-011 requires explicit permission before publishing the exact14-document checkpoint to the public repository.
+Complete the explicitly authorized14-document public push under D-003 and final ref equality verification. Then retain `M1_AWAITING_PRODUCT_OWNER_ACCEPTANCE` unless a new owner response explicitly accepts its behavior proposals and authorizes a bounded next task. Clarification of “continue” beyond publication is pending; EXP-001/application implementation remains unauthorized meanwhile.
 
 ## Result and precise handoff
 
@@ -25,5 +25,5 @@ The neutral baseline was verified before TASK-001. Will approved PLAN-001 and au
 - M1 delivers first-repeat/routing/time-change alternatives and one bounded204-render protocol. No DSP runtime/host/listening evidence; first audible build remains separately conditional.
 - Application/accepted product baseline, frozen DSP contracts, V1 feature freeze and release: **NONE**.
 - Git: local main/origin connected to owner-supplied `https://github.com/drkmtr1/CHROMAVE`; remote was empty on targeted inspection. A local baseline commit exists; reconciled final local checkpoint/clean-state verification is the last coordinator operation. Live Git refs and final tool evidence own current commit identity; this file does not embed its containing SHA.
-- Remote status: **NOT PUSHED; no tracking/live equality or remote backup**. Automatic approval review rejected public disclosure absent explicit exact-payload permission (F-011). Do not retry or bypass the rejection. Public payload would contain all14 tracked Markdown documents, including source brief, plan/design, task/decision/finding/review/readiness history and two superseded revisions, not just the design.
-- Precise handoff: review DESIGN-001 section6's three behavior choices and accept/revise/reject M1; separately permit/decline publishing the concrete14-document checkpoint. No experiment/code task is automatically authorized by either decision.
+- Remote status: public disclosure/push explicitly authorized under D-003; push and tracking/live equality verification pending. Historical automatic-review rejection remains recorded, now resolved as a permission prerequisite by the direct owner response. Payload contains all14 tracked Markdown files including source brief/history/superseded revisions.
+- Precise continuation: finish public checkpoint and verify refs; owner clarification of M1 choices/EXP-001 scope is pending separately. Do not invent experiment or product acceptance from the publication permission.
