@@ -1,0 +1,82 @@
+[
+  {
+    "path": "records/DESIGN-001.md",
+    "bytes": 27838,
+    "sha256": "0a29614548a4868915fcf0e13fddd5bb9510615c3caa5854e79144e624185769"
+  },
+  {
+    "path": "experiments/exp-001/candidate/candidate.cpp",
+    "bytes": 13502,
+    "sha256": "cf1fcb21e4ba020351c59284dd7b911f72cd6aeb65f511e94737690410da6257"
+  },
+  {
+    "path": "experiments/exp-001/oracle/oracle.cpp",
+    "bytes": 14559,
+    "sha256": "2c776d793c9b86027db2ef3484745113e735395217564143c5952a93f3555c33"
+  },
+  {
+    "path": "experiments/exp-001/oracle/make_manifest.py",
+    "bytes": 6202,
+    "sha256": "8167eff3b591dcaebf88479c88a9b3d36cc48cd4d0565319b4789eaab1fc2941"
+  },
+  {
+    "path": "experiments/exp-001/analysis/compare.py",
+    "bytes": 9213,
+    "sha256": "645316f35d52c61e1833a63e2539a607c051cc45a89d4e6b191ea661876b1be3"
+  },
+  {
+    "path": "experiments/exp-001/analysis/check_verifier.py",
+    "bytes": 1538,
+    "sha256": "fc285abd56125b33f381050a442617039340fde424427501662aab507423e012"
+  },
+  {
+    "path": "experiments/exp-001/build.cmd",
+    "bytes": 628,
+    "sha256": "04c8da8c7086b377825d5e88dc3010f05f692339a8aa7a9b53e978f133bfcf1a"
+  },
+  {
+    "path": "records/evidence/exp-001/manifest.csv",
+    "bytes": 26338,
+    "sha256": "dd81031655c25db3b9e59b53d32575ef3988da135f583a3650f6440dd8d3235d"
+  },
+  {
+    "path": "records/evidence/exp-001/primary.csv",
+    "bytes": 25730,
+    "sha256": "17162431133e365bf4952edb0c4f3ecb817dd5184850c4c5f96d52c5051d1759"
+  },
+  {
+    "path": "records/evidence/exp-001/negative.csv",
+    "bytes": 692,
+    "sha256": "e143f7b1c87cdb6bb76e4ace8da43a26c6a8305a31c94e80ccb5ebc35f7c3ddc"
+  },
+  {
+    "path": "records/evidence/exp-001/events.csv",
+    "bytes": 134132,
+    "sha256": "3f68b01cff2b9e7dbc0d49b0a6c21ffe184afb0460529ff5508b8aabe7bc382e"
+  },
+  {
+    "path": "records/evidence/exp-001/ORACLE-DERIVATION.md",
+    "bytes": 3000,
+    "sha256": "650e32856c32c0f892923a972626e4beca5df0c93cec406226aa68dac895443f"
+  },
+  {
+    "path": "artifacts/exp-001/bin/candidate.exe",
+    "bytes": 353280,
+    "sha256": "ff5c4a71a1f001c972cac1df4c07e8583356df31260f7499c76d62942242aba5"
+  },
+  {
+    "path": "artifacts/exp-001/bin/oracle.exe",
+    "bytes": 367616,
+    "sha256": "aa4ac9d03139ce693ec27c4c270f998d89a1d15c4e5189968451c98412026100"
+  },
+  {
+    "path": "artifacts/exp-001/build-final.log",
+    "bytes": 27,
+    "sha256": "fe637edcb3b691b975c7cf9eb5079476c1aa6ff4fe585e0bc6fe53f3648a8f8e"
+  },
+  {
+    "path": "artifacts/exp-001/verifier-probes/result.json",
+    "bytes": 715,
+    "sha256": "6dd61903e0c91b81d22cc64b2d403e6d6144ead699bf34907a946c3ec1796a22"
+  }
+]

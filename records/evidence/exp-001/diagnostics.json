@@ -1,0 +1,573 @@
+{
+  "transients": [
+    {
+      "id": "P2__A__stereo__sine__retarget__48000__irregular__0p5__1__post__none",
+      "window_seconds": [
+        0.95,
+        1.75
+      ],
+      "peak": 0.24609375,
+      "rms": 0.16778582975792705,
+      "maximum_adjacent_sample_change": 0.0321216806773138
+    },
+    {
+      "id": "P2__C__stereo__sine__retarget__48000__irregular__0p5__1__post__none",
+      "window_seconds": [
+        0.95,
+        1.75
+      ],
+      "peak": 0.24609375,
+      "rms": 0.16505693371955074,
+      "maximum_adjacent_sample_change": 0.25508639216423035
+    },
+    {
+      "id": "P2__B__stereo__sine__retarget__48000__irregular__0p5__1__post__none",
+      "window_seconds": [
+        0.95,
+        1.75
+      ],
+      "peak": 0.24609375,
+      "rms": 0.16772712928817368,
+      "maximum_adjacent_sample_change": 0.0321216806773138
+    },
+    {
+      "id": "P2__C__pingpong__sine__retarget__48000__irregular__0p5__1__post__none",
+      "window_seconds": [
+        0.95,
+        1.75
+      ],
+      "peak": 0.1640625,
+      "rms": 0.08787241328354249,
+      "maximum_adjacent_sample_change": 0.17005760222673416
+    },
+    {
+      "id": "P2__A__pingpong__sine__retarget__48000__irregular__0p5__1__post__none",
+      "window_seconds": [
+        0.95,
+        1.75
+      ],
+      "peak": 0.1640625,
+      "rms": 0.08893476954059153,
+      "maximum_adjacent_sample_change": 0.021414453164058597
+    },
+    {
+      "id": "P2__B__pingpong__sine__retarget__48000__irregular__0p5__1__post__none",
+      "window_seconds": [
+        0.95,
+        1.75
+      ],
+      "peak": 0.1640625,
+      "rms": 0.08891184160914545,
+      "maximum_adjacent_sample_change": 0.021414453164052518
+    },
+    {
+      "id": "P2__B__stereo__sine__mode_collision__48000__irregular__0p5__1__post__none",
+      "window_seconds": [
+        0.95,
+        1.75
+      ],
+      "peak": 0.24609375,
+      "rms": 0.16431845908369178,
+      "maximum_adjacent_sample_change": 0.4637429416179657
+    },
+    {
+      "id": "P2__C__stereo__sine__mode_collision__48000__irregular__0p5__1__post__none",
+      "window_seconds": [
+        0.95,
+        1.75
+      ],
+      "peak": 0.24609375,
+      "rms": 0.16592016250523972,
+      "maximum_adjacent_sample_change": 0.38785049319267273
+    },
+    {
+      "id": "P2__A__stereo__sine__mode_collision__48000__irregular__0p5__1__post__none",
+      "window_seconds": [
+        0.95,
+        1.75
+      ],
+      "peak": 0.24609375,
+      "rms": 0.1669863036533906,
+      "maximum_adjacent_sample_change": 0.3601866066455841
+    },
+    {
+      "id": "P2__B__pingpong__sine__mode_collision__48000__irregular__0p5__1__post__none",
+      "window_seconds": [
+        0.95,
+        1.75
+      ],
+      "peak": 0.1640625,
+      "rms": 0.08745053590476055,
+      "maximum_adjacent_sample_change": 0.3091619610786438
+    },
+    {
+      "id": "P2__C__pingpong__sine__mode_collision__48000__irregular__0p5__1__post__none",
+      "window_seconds": [
+        0.95,
+        1.75
+      ],
+      "peak": 0.1640625,
+      "rms": 0.08814460656801433,
+      "maximum_adjacent_sample_change": 0.2770360857248306
+    },
+    {
+      "id": "P2__A__pingpong__sine__mode_collision__48000__irregular__0p5__1__post__none",
+      "window_seconds": [
+        0.95,
+        1.75
+      ],
+      "peak": 0.1640625,
+      "rms": 0.08868362097626327,
+      "maximum_adjacent_sample_change": 0.2401244044303894
+    },
+    {
+      "id": "P2__A__stereo__sine__timing_return__48000__irregular__0p5__1__post__none",
+      "window_seconds": [
+        0.95,
+        1.75
+      ],
+      "peak": 0.24609375,
+      "rms": 0.16895519123529254,
+      "maximum_adjacent_sample_change": 0.03212168067733287
+    },
+    {
+      "id": "P2__B__stereo__sine__timing_return__48000__irregular__0p5__1__post__none",
+      "window_seconds": [
+        0.95,
+        1.75
+      ],
+      "peak": 0.24609375,
+      "rms": 0.16931042160719623,
+      "maximum_adjacent_sample_change": 0.03212168067733287
+    },
+    {
+      "id": "P2__C__stereo__sine__timing_return__48000__irregular__0p5__1__post__none",
+      "window_seconds": [
+        0.95,
+        1.75
+      ],
+      "peak": 0.24609375,
+      "rms": 0.16718104299255057,
+      "maximum_adjacent_sample_change": 0.1471025049686432
+    },
+    {
+      "id": "P2__A__pingpong__sine__timing_return__48000__irregular__0p5__1__post__none",
+      "window_seconds": [
+        0.95,
+        1.75
+      ],
+      "peak": 0.1640625,
+      "rms": 0.0894482733094681,
+      "maximum_adjacent_sample_change": 0.021414453164065685
+    },
+    {
+      "id": "P2__B__pingpong__sine__timing_return__48000__irregular__0p5__1__post__none",
+      "window_seconds": [
+        0.95,
+        1.75
+      ],
+      "peak": 0.1640625,
+      "rms": 0.08959049238470207,
+      "maximum_adjacent_sample_change": 0.021414453164065685
+    },
+    {
+      "id": "P2__C__pingpong__sine__timing_return__48000__irregular__0p5__1__post__none",
+      "window_seconds": [
+        0.95,
+        1.75
+      ],
+      "peak": 0.1640625,
+      "rms": 0.08874438435721188,
+      "maximum_adjacent_sample_change": 0.10507321357727051
+    },
+    {
+      "id": "P2__A__stereo__sine__timing_repeat__48000__irregular__0p5__1__post__none",
+      "window_seconds": [
+        0.95,
+        1.75
+      ],
+      "peak": 0.2421875,
+      "rms": 0.16534830737190745,
+      "maximum_adjacent_sample_change": 0.03161181137001709
+    },
+    {
+      "id": "P2__B__stereo__sine__timing_repeat__48000__irregular__0p5__1__post__none",
+      "window_seconds": [
+        0.95,
+        1.75
+      ],
+      "peak": 0.2421875,
+      "rms": 0.16519654693397698,
+      "maximum_adjacent_sample_change": 0.03161181137001709
+    },
+    {
+      "id": "P2__C__stereo__sine__timing_repeat__48000__irregular__0p5__1__post__none",
+      "window_seconds": [
+        0.95,
+        1.75
+      ],
+      "peak": 0.2421875,
+      "rms": 0.16410174507128764,
+      "maximum_adjacent_sample_change": 0.1471025049686432
+    },
+    {
+      "id": "P2__A__pingpong__sine__timing_repeat__48000__irregular__0p5__1__post__none",
+      "window_seconds": [
+        0.95,
+        1.75
+      ],
+      "peak": 0.1640625,
+      "rms": 0.08785842817376882,
+      "maximum_adjacent_sample_change": 0.021414453164049264
+    },
+    {
+      "id": "P2__B__pingpong__sine__timing_repeat__48000__irregular__0p5__1__post__none",
+      "window_seconds": [
+        0.95,
+        1.75
+      ],
+      "peak": 0.1640625,
+      "rms": 0.08779707683088328,
+      "maximum_adjacent_sample_change": 0.021414453164049264
+    },
+    {
+      "id": "P2__C__pingpong__sine__timing_repeat__48000__irregular__0p5__1__post__none",
+      "window_seconds": [
+        0.95,
+        1.75
+      ],
+      "peak": 0.1640625,
+      "rms": 0.08749465774111354,
+      "maximum_adjacent_sample_change": 0.10507321357727051
+    },
+    {
+      "id": "P3__A__stereo__sine__endpoint__48000__irregular__0p5__1__post__none",
+      "window_seconds": [
+        0.95,
+        1.75
+      ],
+      "peak": 0.24609375,
+      "rms": 0.16635953112835034,
+      "maximum_adjacent_sample_change": 0.0321216806773138
+    },
+    {
+      "id": "P3__B__stereo__sine__endpoint__48000__irregular__0p5__1__post__none",
+      "window_seconds": [
+        0.95,
+        1.75
+      ],
+      "peak": 0.24609375,
+      "rms": 0.16618904079694277,
+      "maximum_adjacent_sample_change": 0.0321216806773138
+    },
+    {
+      "id": "P3__C__stereo__sine__endpoint__48000__irregular__0p5__1__post__none",
+      "window_seconds": [
+        0.95,
+        1.75
+      ],
+      "peak": 0.24609375,
+      "rms": 0.16313307486623407,
+      "maximum_adjacent_sample_change": 0.1471025049686432
+    },
+    {
+      "id": "P4__A__stereo__step__routing__48000__irregular__0p5__1__post__none",
+      "window_seconds": [
+        0.95,
+        1.75
+      ],
+      "peak": 0.24609375,
+      "rms": 0.19857918405641445,
+      "maximum_adjacent_sample_change": 0.015625
+    },
+    {
+      "id": "P4__A__stereo__step__routing_return__48000__irregular__0p5__1__post__none",
+      "window_seconds": [
+        0.95,
+        1.75
+      ],
+      "peak": 0.24609375,
+      "rms": 0.2375574680053122,
+      "maximum_adjacent_sample_change": 0.015625
+    },
+    {
+      "id": "P4__A__stereo__step__routing_repeat__48000__irregular__0p5__1__post__none",
+      "window_seconds": [
+        0.95,
+        1.75
+      ],
+      "peak": 0.24609375,
+      "rms": 0.19857918405641445,
+      "maximum_adjacent_sample_change": 0.015625
+    },
+    {
+      "id": "P9__A__stereo__sine__motion__44100__irregular__0__1__post__none",
+      "window_seconds": [
+        0.95,
+        1.75
+      ],
+      "peak": 0.12499921023845673,
+      "rms": 0.08822517054405747,
+      "maximum_adjacent_sample_change": 0.017794422805309296
+    },
+    {
+      "id": "P9__A__stereo__sine__motion__48000__irregular__0__1__post__none",
+      "window_seconds": [
+        0.95,
+        1.75
+      ],
+      "peak": 0.125,
+      "rms": 0.08830974058730519,
+      "maximum_adjacent_sample_change": 0.01631577312976112
+    },
+    {
+      "id": "P9__A__stereo__sine__motion__96000__irregular__0__1__post__none",
+      "window_seconds": [
+        0.95,
+        1.75
+      ],
+      "peak": 0.125,
+      "rms": 0.08836868107000692,
+      "maximum_adjacent_sample_change": 0.008175390772819419
+    },
+    {
+      "id": "P10__B__stereo__pluck__retarget__48000__irregular__0p5__1__post__none",
+      "window_seconds": [
+        0.95,
+        1.75
+      ],
+      "peak": 0.11624420434236526,
+      "rms": 0.0164803427385327,
+      "maximum_adjacent_sample_change": 0.00556452851742499
+    },
+    {
+      "id": "P10__C__stereo__pluck__retarget__48000__irregular__0p5__1__post__none",
+      "window_seconds": [
+        0.95,
+        1.75
+      ],
+      "peak": 0.11151847243309021,
+      "rms": 0.016294568682065826,
+      "maximum_adjacent_sample_change": 0.007515335455536842
+    },
+    {
+      "id": "P10__A__stereo__pluck__retarget__48000__irregular__0p5__1__post__none",
+      "window_seconds": [
+        0.95,
+        1.75
+      ],
+      "peak": 0.11702794581651688,
+      "rms": 0.01651201849936211,
+      "maximum_adjacent_sample_change": 0.00556088238954537
+    },
+    {
+      "id": "P10__C__pingpong__pluck__retarget__48000__irregular__0p5__1__post__none",
+      "window_seconds": [
+        0.95,
+        1.75
+      ],
+      "peak": 0.1095326691865921,
+      "rms": 0.01100565042773167,
+      "maximum_adjacent_sample_change": 0.007289893925189972
+    },
+    {
+      "id": "P10__B__pingpong__pluck__retarget__48000__irregular__0p5__1__post__none",
+      "window_seconds": [
+        0.95,
+        1.75
+      ],
+      "peak": 0.11570397764444351,
+      "rms": 0.011064917773116124,
+      "maximum_adjacent_sample_change": 0.005524856038391608
+    },
+    {
+      "id": "P10__A__pingpong__pluck__retarget__48000__irregular__0p5__1__post__none",
+      "window_seconds": [
+        0.95,
+        1.75
+      ],
+      "peak": 0.11648404598236084,
+      "rms": 0.011131597064523116,
+      "maximum_adjacent_sample_change": 0.005527451168745774
+    }
+  ],
+  "motion": [
+    {
+      "id": "P9__A__stereo__sine__motion__44100__irregular__0__1__post__none",
+      "ideal_frequency_hz": 950,
+      "fft_window_seconds": [
+        1.05,
+        1.45
+      ],
+      "fft_bin_width_hz": 2.5,
+      "dominant_fft_bin_hz": 950.0,
+      "phase_fit_window_seconds": 0.02,
+      "phase_fit_frequency_min_hz": 949.9999631542959,
+      "phase_fit_frequency_max_hz": 950.0000323042926,
+      "maximum_candidate_reference_fitted_phase_difference_rad": 6.193255099571932e-10,
+      "fitted_phase_times_seconds": [
+        1.0599886621315193,
+        1.0799886621315193,
+        1.0999886621315194,
+        1.1199886621315192,
+        1.1399886621315194,
+        1.1599886621315192,
+        1.1799886621315192,
+        1.1999886621315192,
+        1.2199886621315192,
+        1.2399886621315193,
+        1.2599886621315193,
+        1.2799886621315193,
+        1.2999886621315195,
+        1.3199886621315193,
+        1.3399886621315191,
+        1.3599886621315194,
+        1.3799886621315194,
+        1.3999886621315192,
+        1.4199886621315194,
+        1.4399886621315192
+      ],
+      "fitted_phase_rad": [
+        -6.706502604093581e-06,
+        -4.0323991919324705e-06,
+        2.7077942276225773e-08,
+        4.080005432480047e-06,
+        6.734396387009131e-06,
+        7.002474124648176e-06,
+        4.583404572422317e-06,
+        -4.676315682697449e-08,
+        -4.634303084878147e-06,
+        -7.007408056857528e-06,
+        -6.706502604304977e-06,
+        -4.032399192598095e-06,
+        2.707794730263074e-08,
+        4.080005443243603e-06,
+        6.734396381064688e-06,
+        7.00247411865608e-06,
+        4.5834045854532965e-06,
+        -4.676315368366268e-08,
+        -4.634303100368071e-06,
+        -7.007408037878221e-06
+      ],
+      "interpretation": "Descriptive sampled motion, no production frequency threshold or listening verdict."
+    },
+    {
+      "id": "P9__A__stereo__sine__motion__48000__irregular__0__1__post__none",
+      "ideal_frequency_hz": 950,
+      "fft_window_seconds": [
+        1.05,
+        1.45
+      ],
+      "fft_bin_width_hz": 2.5,
+      "dominant_fft_bin_hz": 950.0,
+      "phase_fit_window_seconds": 0.02,
+      "phase_fit_frequency_min_hz": 949.9999999999999,
+      "phase_fit_frequency_max_hz": 950.0000000000001,
+      "maximum_candidate_reference_fitted_phase_difference_rad": 7.474098822882031e-13,
+      "fitted_phase_times_seconds": [
+        1.0599895833333333,
+        1.0799895833333333,
+        1.0999895833333333,
+        1.1199895833333333,
+        1.1399895833333333,
+        1.1599895833333334,
+        1.1799895833333334,
+        1.1999895833333334,
+        1.2199895833333334,
+        1.2399895833333334,
+        1.2599895833333332,
+        1.2799895833333332,
+        1.2999895833333333,
+        1.3199895833333335,
+        1.3399895833333333,
+        1.3599895833333333,
+        1.3799895833333333,
+        1.3999895833333333,
+        1.4199895833333334,
+        1.4399895833333332
+      ],
+      "fitted_phase_rad": [
+        1.8089201320745073e-14,
+        1.5343048580552424e-14,
+        2.206830074911517e-14,
+        1.912088930082499e-14,
+        2.7392886581443715e-14,
+        2.1187882949603683e-14,
+        1.8356708332202337e-14,
+        1.3146447520209744e-14,
+        1.9536466325145595e-14,
+        2.055964282549667e-14,
+        2.23016775941123e-14,
+        2.3291732420651566e-14,
+        2.7797225365974703e-14,
+        2.8262624900605945e-14,
+        1.973474663480462e-14,
+        1.7339927006699233e-14,
+        2.0858302843910855e-14,
+        2.4611321719708567e-14,
+        2.7965544637026736e-14,
+        2.641920669436368e-14
+      ],
+      "interpretation": "Descriptive sampled motion, no production frequency threshold or listening verdict."
+    },
+    {
+      "id": "P9__A__stereo__sine__motion__96000__irregular__0__1__post__none",
+      "ideal_frequency_hz": 950,
+      "fft_window_seconds": [
+        1.05,
+        1.45
+      ],
+      "fft_bin_width_hz": 2.5,
+      "dominant_fft_bin_hz": 950.0,
+      "phase_fit_window_seconds": 0.02,
+      "phase_fit_frequency_min_hz": 949.999999999217,
+      "phase_fit_frequency_max_hz": 950.0000000011204,
+      "maximum_candidate_reference_fitted_phase_difference_rad": 1.0537949827516044e-10,
+      "fitted_phase_times_seconds": [
+        1.0599947916666668,
+        1.0799947916666666,
+        1.0999947916666668,
+        1.1199947916666666,
+        1.1399947916666666,
+        1.1599947916666666,
+        1.1799947916666667,
+        1.199994791666667,
+        1.2199947916666667,
+        1.2399947916666667,
+        1.2599947916666667,
+        1.2799947916666667,
+        1.2999947916666668,
+        1.3199947916666666,
+        1.3399947916666666,
+        1.3599947916666666,
+        1.3799947916666666,
+        1.3999947916666668,
+        1.4199947916666666,
+        1.4399947916666667
+      ],
+      "fitted_phase_rad": [
+        -7.100694103825981e-11,
+        -7.73570363779019e-12,
+        -7.734232998971803e-12,
+        -7.735680269697128e-12,
+        -7.732710513246221e-12,
+        -4.9890983812670566e-11,
+        -8.246925199364846e-13,
+        -3.61240573144197e-11,
+        -4.699149554881978e-11,
+        -7.367521581365631e-11,
+        2.309283688209757e-11,
+        4.615789708137393e-11,
+        -7.731060716750143e-12,
+        -4.4562989403271667e-11,
+        -6.96334071520334e-11,
+        7.116194075641049e-11,
+        1.046948700762774e-10,
+        6.298808621612421e-12,
+        -3.5163213084472555e-11,
+        -6.259673865659598e-11
+      ],
+      "interpretation": "Descriptive sampled motion, no production frequency threshold or listening verdict."
+    }
+  ]
+}

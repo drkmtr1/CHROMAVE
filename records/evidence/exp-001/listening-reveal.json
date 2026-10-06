@@ -1,0 +1,395 @@
+{
+  "shuffle_seed": 20261005,
+  "mapping": [
+    {
+      "file": "group-01-A-short.wav",
+      "id": "P2__A__stereo__sine__retarget__48000__irregular__0p5__1__post__none",
+      "style": "A"
+    },
+    {
+      "file": "group-01-A-long.wav",
+      "id": "P2__A__stereo__sine__retarget__48000__irregular__0p5__1__post__none",
+      "style": "A"
+    },
+    {
+      "file": "group-01-B-short.wav",
+      "id": "P2__C__stereo__sine__retarget__48000__irregular__0p5__1__post__none",
+      "style": "C"
+    },
+    {
+      "file": "group-01-B-long.wav",
+      "id": "P2__C__stereo__sine__retarget__48000__irregular__0p5__1__post__none",
+      "style": "C"
+    },
+    {
+      "file": "group-01-C-short.wav",
+      "id": "P2__B__stereo__sine__retarget__48000__irregular__0p5__1__post__none",
+      "style": "B"
+    },
+    {
+      "file": "group-01-C-long.wav",
+      "id": "P2__B__stereo__sine__retarget__48000__irregular__0p5__1__post__none",
+      "style": "B"
+    },
+    {
+      "file": "group-02-A-short.wav",
+      "id": "P2__C__pingpong__sine__retarget__48000__irregular__0p5__1__post__none",
+      "style": "C"
+    },
+    {
+      "file": "group-02-A-long.wav",
+      "id": "P2__C__pingpong__sine__retarget__48000__irregular__0p5__1__post__none",
+      "style": "C"
+    },
+    {
+      "file": "group-02-B-short.wav",
+      "id": "P2__A__pingpong__sine__retarget__48000__irregular__0p5__1__post__none",
+      "style": "A"
+    },
+    {
+      "file": "group-02-B-long.wav",
+      "id": "P2__A__pingpong__sine__retarget__48000__irregular__0p5__1__post__none",
+      "style": "A"
+    },
+    {
+      "file": "group-02-C-short.wav",
+      "id": "P2__B__pingpong__sine__retarget__48000__irregular__0p5__1__post__none",
+      "style": "B"
+    },
+    {
+      "file": "group-02-C-long.wav",
+      "id": "P2__B__pingpong__sine__retarget__48000__irregular__0p5__1__post__none",
+      "style": "B"
+    },
+    {
+      "file": "group-03-A-short.wav",
+      "id": "P2__B__stereo__sine__mode_collision__48000__irregular__0p5__1__post__none",
+      "style": "B"
+    },
+    {
+      "file": "group-03-A-long.wav",
+      "id": "P2__B__stereo__sine__mode_collision__48000__irregular__0p5__1__post__none",
+      "style": "B"
+    },
+    {
+      "file": "group-03-B-short.wav",
+      "id": "P2__C__stereo__sine__mode_collision__48000__irregular__0p5__1__post__none",
+      "style": "C"
+    },
+    {
+      "file": "group-03-B-long.wav",
+      "id": "P2__C__stereo__sine__mode_collision__48000__irregular__0p5__1__post__none",
+      "style": "C"
+    },
+    {
+      "file": "group-03-C-short.wav",
+      "id": "P2__A__stereo__sine__mode_collision__48000__irregular__0p5__1__post__none",
+      "style": "A"
+    },
+    {
+      "file": "group-03-C-long.wav",
+      "id": "P2__A__stereo__sine__mode_collision__48000__irregular__0p5__1__post__none",
+      "style": "A"
+    },
+    {
+      "file": "group-04-A-short.wav",
+      "id": "P2__B__pingpong__sine__mode_collision__48000__irregular__0p5__1__post__none",
+      "style": "B"
+    },
+    {
+      "file": "group-04-A-long.wav",
+      "id": "P2__B__pingpong__sine__mode_collision__48000__irregular__0p5__1__post__none",
+      "style": "B"
+    },
+    {
+      "file": "group-04-B-short.wav",
+      "id": "P2__C__pingpong__sine__mode_collision__48000__irregular__0p5__1__post__none",
+      "style": "C"
+    },
+    {
+      "file": "group-04-B-long.wav",
+      "id": "P2__C__pingpong__sine__mode_collision__48000__irregular__0p5__1__post__none",
+      "style": "C"
+    },
+    {
+      "file": "group-04-C-short.wav",
+      "id": "P2__A__pingpong__sine__mode_collision__48000__irregular__0p5__1__post__none",
+      "style": "A"
+    },
+    {
+      "file": "group-04-C-long.wav",
+      "id": "P2__A__pingpong__sine__mode_collision__48000__irregular__0p5__1__post__none",
+      "style": "A"
+    },
+    {
+      "file": "group-05-A-short.wav",
+      "id": "P2__A__stereo__sine__timing_return__48000__irregular__0p5__1__post__none",
+      "style": "A"
+    },
+    {
+      "file": "group-05-A-long.wav",
+      "id": "P2__A__stereo__sine__timing_return__48000__irregular__0p5__1__post__none",
+      "style": "A"
+    },
+    {
+      "file": "group-05-B-short.wav",
+      "id": "P2__B__stereo__sine__timing_return__48000__irregular__0p5__1__post__none",
+      "style": "B"
+    },
+    {
+      "file": "group-05-B-long.wav",
+      "id": "P2__B__stereo__sine__timing_return__48000__irregular__0p5__1__post__none",
+      "style": "B"
+    },
+    {
+      "file": "group-05-C-short.wav",
+      "id": "P2__C__stereo__sine__timing_return__48000__irregular__0p5__1__post__none",
+      "style": "C"
+    },
+    {
+      "file": "group-05-C-long.wav",
+      "id": "P2__C__stereo__sine__timing_return__48000__irregular__0p5__1__post__none",
+      "style": "C"
+    },
+    {
+      "file": "group-06-A-short.wav",
+      "id": "P2__A__pingpong__sine__timing_return__48000__irregular__0p5__1__post__none",
+      "style": "A"
+    },
+    {
+      "file": "group-06-A-long.wav",
+      "id": "P2__A__pingpong__sine__timing_return__48000__irregular__0p5__1__post__none",
+      "style": "A"
+    },
+    {
+      "file": "group-06-B-short.wav",
+      "id": "P2__B__pingpong__sine__timing_return__48000__irregular__0p5__1__post__none",
+      "style": "B"
+    },
+    {
+      "file": "group-06-B-long.wav",
+      "id": "P2__B__pingpong__sine__timing_return__48000__irregular__0p5__1__post__none",
+      "style": "B"
+    },
+    {
+      "file": "group-06-C-short.wav",
+      "id": "P2__C__pingpong__sine__timing_return__48000__irregular__0p5__1__post__none",
+      "style": "C"
+    },
+    {
+      "file": "group-06-C-long.wav",
+      "id": "P2__C__pingpong__sine__timing_return__48000__irregular__0p5__1__post__none",
+      "style": "C"
+    },
+    {
+      "file": "group-07-A-short.wav",
+      "id": "P2__A__stereo__sine__timing_repeat__48000__irregular__0p5__1__post__none",
+      "style": "A"
+    },
+    {
+      "file": "group-07-A-long.wav",
+      "id": "P2__A__stereo__sine__timing_repeat__48000__irregular__0p5__1__post__none",
+      "style": "A"
+    },
+    {
+      "file": "group-07-B-short.wav",
+      "id": "P2__B__stereo__sine__timing_repeat__48000__irregular__0p5__1__post__none",
+      "style": "B"
+    },
+    {
+      "file": "group-07-B-long.wav",
+      "id": "P2__B__stereo__sine__timing_repeat__48000__irregular__0p5__1__post__none",
+      "style": "B"
+    },
+    {
+      "file": "group-07-C-short.wav",
+      "id": "P2__C__stereo__sine__timing_repeat__48000__irregular__0p5__1__post__none",
+      "style": "C"
+    },
+    {
+      "file": "group-07-C-long.wav",
+      "id": "P2__C__stereo__sine__timing_repeat__48000__irregular__0p5__1__post__none",
+      "style": "C"
+    },
+    {
+      "file": "group-08-A-short.wav",
+      "id": "P2__A__pingpong__sine__timing_repeat__48000__irregular__0p5__1__post__none",
+      "style": "A"
+    },
+    {
+      "file": "group-08-A-long.wav",
+      "id": "P2__A__pingpong__sine__timing_repeat__48000__irregular__0p5__1__post__none",
+      "style": "A"
+    },
+    {
+      "file": "group-08-B-short.wav",
+      "id": "P2__B__pingpong__sine__timing_repeat__48000__irregular__0p5__1__post__none",
+      "style": "B"
+    },
+    {
+      "file": "group-08-B-long.wav",
+      "id": "P2__B__pingpong__sine__timing_repeat__48000__irregular__0p5__1__post__none",
+      "style": "B"
+    },
+    {
+      "file": "group-08-C-short.wav",
+      "id": "P2__C__pingpong__sine__timing_repeat__48000__irregular__0p5__1__post__none",
+      "style": "C"
+    },
+    {
+      "file": "group-08-C-long.wav",
+      "id": "P2__C__pingpong__sine__timing_repeat__48000__irregular__0p5__1__post__none",
+      "style": "C"
+    },
+    {
+      "file": "group-09-A-short.wav",
+      "id": "P3__A__stereo__sine__endpoint__48000__irregular__0p5__1__post__none",
+      "style": "A"
+    },
+    {
+      "file": "group-09-A-long.wav",
+      "id": "P3__A__stereo__sine__endpoint__48000__irregular__0p5__1__post__none",
+      "style": "A"
+    },
+    {
+      "file": "group-09-B-short.wav",
+      "id": "P3__B__stereo__sine__endpoint__48000__irregular__0p5__1__post__none",
+      "style": "B"
+    },
+    {
+      "file": "group-09-B-long.wav",
+      "id": "P3__B__stereo__sine__endpoint__48000__irregular__0p5__1__post__none",
+      "style": "B"
+    },
+    {
+      "file": "group-09-C-short.wav",
+      "id": "P3__C__stereo__sine__endpoint__48000__irregular__0p5__1__post__none",
+      "style": "C"
+    },
+    {
+      "file": "group-09-C-long.wav",
+      "id": "P3__C__stereo__sine__endpoint__48000__irregular__0p5__1__post__none",
+      "style": "C"
+    },
+    {
+      "file": "group-10-A-short.wav",
+      "id": "P4__A__stereo__step__routing__48000__irregular__0p5__1__post__none",
+      "style": "A"
+    },
+    {
+      "file": "group-10-A-long.wav",
+      "id": "P4__A__stereo__step__routing__48000__irregular__0p5__1__post__none",
+      "style": "A"
+    },
+    {
+      "file": "group-11-A-short.wav",
+      "id": "P4__A__stereo__step__routing_return__48000__irregular__0p5__1__post__none",
+      "style": "A"
+    },
+    {
+      "file": "group-11-A-long.wav",
+      "id": "P4__A__stereo__step__routing_return__48000__irregular__0p5__1__post__none",
+      "style": "A"
+    },
+    {
+      "file": "group-12-A-short.wav",
+      "id": "P4__A__stereo__step__routing_repeat__48000__irregular__0p5__1__post__none",
+      "style": "A"
+    },
+    {
+      "file": "group-12-A-long.wav",
+      "id": "P4__A__stereo__step__routing_repeat__48000__irregular__0p5__1__post__none",
+      "style": "A"
+    },
+    {
+      "file": "group-13-A-short.wav",
+      "id": "P9__A__stereo__sine__motion__44100__irregular__0__1__post__none",
+      "style": "A"
+    },
+    {
+      "file": "group-13-A-long.wav",
+      "id": "P9__A__stereo__sine__motion__44100__irregular__0__1__post__none",
+      "style": "A"
+    },
+    {
+      "file": "group-14-A-short.wav",
+      "id": "P9__A__stereo__sine__motion__48000__irregular__0__1__post__none",
+      "style": "A"
+    },
+    {
+      "file": "group-14-A-long.wav",
+      "id": "P9__A__stereo__sine__motion__48000__irregular__0__1__post__none",
+      "style": "A"
+    },
+    {
+      "file": "group-15-A-short.wav",
+      "id": "P9__A__stereo__sine__motion__96000__irregular__0__1__post__none",
+      "style": "A"
+    },
+    {
+      "file": "group-15-A-long.wav",
+      "id": "P9__A__stereo__sine__motion__96000__irregular__0__1__post__none",
+      "style": "A"
+    },
+    {
+      "file": "group-16-A-short.wav",
+      "id": "P10__B__stereo__pluck__retarget__48000__irregular__0p5__1__post__none",
+      "style": "B"
+    },
+    {
+      "file": "group-16-A-long.wav",
+      "id": "P10__B__stereo__pluck__retarget__48000__irregular__0p5__1__post__none",
+      "style": "B"
+    },
+    {
+      "file": "group-16-B-short.wav",
+      "id": "P10__C__stereo__pluck__retarget__48000__irregular__0p5__1__post__none",
+      "style": "C"
+    },
+    {
+      "file": "group-16-B-long.wav",
+      "id": "P10__C__stereo__pluck__retarget__48000__irregular__0p5__1__post__none",
+      "style": "C"
+    },
+    {
+      "file": "group-16-C-short.wav",
+      "id": "P10__A__stereo__pluck__retarget__48000__irregular__0p5__1__post__none",
+      "style": "A"
+    },
+    {
+      "file": "group-16-C-long.wav",
+      "id": "P10__A__stereo__pluck__retarget__48000__irregular__0p5__1__post__none",
+      "style": "A"
+    },
+    {
+      "file": "group-17-A-short.wav",
+      "id": "P10__C__pingpong__pluck__retarget__48000__irregular__0p5__1__post__none",
+      "style": "C"
+    },
+    {
+      "file": "group-17-A-long.wav",
+      "id": "P10__C__pingpong__pluck__retarget__48000__irregular__0p5__1__post__none",
+      "style": "C"
+    },
+    {
+      "file": "group-17-B-short.wav",
+      "id": "P10__B__pingpong__pluck__retarget__48000__irregular__0p5__1__post__none",
+      "style": "B"
+    },
+    {
+      "file": "group-17-B-long.wav",
+      "id": "P10__B__pingpong__pluck__retarget__48000__irregular__0p5__1__post__none",
+      "style": "B"
+    },
+    {
+      "file": "group-17-C-short.wav",
+      "id": "P10__A__pingpong__pluck__retarget__48000__irregular__0p5__1__post__none",
+      "style": "A"
+    },
+    {
+      "file": "group-17-C-long.wav",
+      "id": "P10__A__pingpong__pluck__retarget__48000__irregular__0p5__1__post__none",
+      "style": "A"
+    }
+  ]
+}

@@ -19,7 +19,7 @@ For each actual material decision, record the question, selected option and rati
 
 ## Pending decisions
 
-PLAN-001 direction and its M1 task are approved under D-002. Exact feature/behavior contracts, dependency versions, experiment execution, application-code tasks, milestone acceptance and release remain undecided/unapproved. Questions/options in design advice are not decision entries.
+PLAN-001 direction/M1 task are approved under D-002. D-004 accepts M1 revision3 and its three named behavior directions and authorizes bounded TASK-003/EXP-001 execution. EXP-001 musical preference/milestone acceptance, exact remaining production contracts/dependency versions, expanded source/evidence publication, production-code tasks and release remain undecided/unapproved. Questions/options or numerical/review results are not Product Owner decisions.
 
 ## D-002 — Plan approval, bounded M1 authorization and supplied Git remote
 
@@ -42,3 +42,15 @@ PLAN-001 direction and its M1 task are approved under D-002. Exact feature/behav
 - Alternatives: retain local-only documentation or omit parts of the payload. The owner explicitly selected all documents.
 - Boundary: “continue” unambiguously authorizes completion of this displayed publication/checkpoint gate. It does not explicitly select the three M1 behavior choices or a bounded EXP-001 execution task; a concise clarification has been requested while publication proceeds. No experiment/code/installation/successor authority or milestone acceptance is recorded from ambiguity.
 - Revisit: new owner response may settle M1 and next-task scope separately. Preserve the original rejection as historical evidence; this permission permits a new direct normal push, not a workaround.
+
+## D-004 — M1 acceptance/behavior choices and bounded EXP-001 execution
+
+- Actual authorizer/provenance: Will, direct asynchronous answer on2026-10-05: “Accept those recommendations and authorize EXP-001,” to the explicit question naming all three behavior recommendations and the disposable204-render experiment.
+- Accepted tuple: M1 DESIGN-001 revision3, SHA-256 `0A29614548A4868915FCF0E13FDDD5BB9510615C3CAA5854E79144E624185769`, with REVIEW-002 technical PASS and distinct READINESS-002 PASS. Historical candidate bytes remain unchanged; this record supplies current disposition.
+- Actual choices: first audible repeat uses post-character tap; mono-summed left-first Ping-Pong with disclosed stereo loss/anti-phase cancellation; Smooth default with explicit Repitch alternative. These establish product behavior direction, not final filters/nonlinear algorithms, dependency versions or release coefficients.
+- Authorized next task: TASK-003, implement/run the standalone disposable EXP-001 harness, independently constructed oracle and accepted204-render protocol/four negative controls; applicable technical review/corrections, fresh readiness and local evidence/checkpoint. Existing installed tools only; no production plugin, framework/dependency installation or successor work.
+- Rationale: obtain reproducible empirical timing/routing evidence under the accepted narrow model before production reliance.
+- Alternatives: keep M1/experiment pending or choose alternative first-tap/routing/time-change behavior. The owner accepted the named recommendations and bounded experiment explicitly.
+- Limits: saturation/filter/musical character, real host/state/lifecycle/latency/performance and final V1 claims remain unestablished. Experimental linear interpolation/numeric thresholds are protocol assumptions, not final production selections. Owner listening and EXP-001 milestone acceptance remain separate; no empirical result is accepted in advance.
+- Public scope: D-003's14-document disclosure remains valid. New experimental source/evidence publication is assessed as a concrete expanded payload after local work; raw multi-GB data are not implicitly authorized for GitHub upload.
+- Stop/revisit: EXP001_AWAITING_PRODUCT_OWNER_ACCEPTANCE; new bounded authority required for production/successor or material protocol changes.

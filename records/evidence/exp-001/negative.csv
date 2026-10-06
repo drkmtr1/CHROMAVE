@@ -1,0 +1,5 @@
+id,panel,style,mode,source,schedule,rate,partition,feedback,char_gain,tap,mutation
+N1__A__pingpong__impulse_center__static__48000__64__0p5__0p5__post__wrong_side,N1,A,pingpong,impulse_center,static,48000,64,0.5,0.5,post,wrong_side
+N2__A__pingpong__impulse_center__static__48000__64__0p5__0p5__post__off_by_one,N2,A,pingpong,impulse_center,static,48000,64,0.5,0.5,post,off_by_one
+N3__A__stereo__sine__timing_return__48000__irregular__0p5__1__post__drop_pending,N3,A,stereo,sine,timing_return,48000,irregular,0.5,1,post,drop_pending
+N4__A__stereo__sine__timing_repeat__48000__irregular__0p5__1__post__restart_repeat,N4,A,stereo,sine,timing_repeat,48000,irregular,0.5,1,post,restart_repeat

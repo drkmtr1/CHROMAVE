@@ -1,0 +1,39 @@
+[
+  {
+    "fixture": "nan.csv",
+    "rejected": true,
+    "errors": [
+      "0:read_old:nan != 0"
+    ]
+  },
+  {
+    "fixture": "infinity.csv",
+    "rejected": true,
+    "errors": [
+      "0:read_new:inf != 0"
+    ]
+  },
+  {
+    "fixture": "duplicate.csv",
+    "rejected": true,
+    "errors": [
+      "candidate: duplicate sample 0"
+    ]
+  },
+  {
+    "fixture": "missing.csv",
+    "rejected": true,
+    "errors": [
+      "candidate: missing fields ['route_weight']",
+      "0:route_weight: missing/invalid value"
+    ]
+  },
+  {
+    "fixture": "empty.csv",
+    "rejected": true,
+    "errors": [
+      "candidate: empty audit trace",
+      "missing audit sample 0"
+    ]
+  }
+]

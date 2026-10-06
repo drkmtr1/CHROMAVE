@@ -1,0 +1,3 @@
+# Local EXP-001 raw custody artifacts, binaries and generated listening media.
+/artifacts/exp-001/
+/experiments/exp-001/**/__pycache__/
