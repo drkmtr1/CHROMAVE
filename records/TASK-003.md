@@ -38,7 +38,7 @@ D-003 permits existing14-document public checkpoint. D-005 now supplies exact pe
 
 ## State and stop
 
-**TASK-003 COMPLETE; Product Owner ACCEPTED under D-006; NO SUCCESSOR AUTHORIZED.** Execution and independent reviews remain unchanged. No subjective listening report/preference supplied; acceptance is not musical evidence or production authority. All planned tracked acceptance records are reconciled in the existing D-005 approved public paths; final commit/push/clean local-tracking-live tool evidence owns identity/outcome. No containing SHA embedded.
+**TASK-003 COMPLETE; Product Owner ACCEPTED under D-006; NO SUCCESSOR AUTHORIZED.** Execution and independent reviews unchanged. No subjective listening report/preference supplied; acceptance is not musical evidence or production authority. Subsequent public acceptance-record push rejected by automatic approval review; preserve coherent local records and await exact new publication permission. Final local commit/clean-state tool evidence owns identity; no current remote equality or containing SHA asserted.
 
 ## Actual execution and retained history
 
@@ -114,3 +114,21 @@ Coordinator changes only six permission/state/finding/task/result/readiness reco
 After normal D-005 push, clean local/tracking/live equality was verified at424fb4940cafbce7013e9cdb3dd363e5a0995ee1. Will then replied “I accept” to the EXP-001 awaiting-acceptance status. D-006 accepts this identifiable presented bounded milestone with its recorded limitations; no audition report or alternative preference was supplied. Do not manufacture listening outcomes or infer a released coefficient/production/successor authorization.
 
 Coordinator reconciles seven existing approved records only: DECISIONS, PROJECT_STATE, MASTER_SPEC, TODO, this task, RESULTS and READINESS. Numerical source/data/manifests/custody/review conclusions remain unchanged. Mechanical actual-decision pointers require no repeat substantive review. After all tracked mutations: scoped CRLF-aware checks, coherent commit, ordinary authorized push and clean local/tracking/live verification. Stop with no new task authorized; preserve all raw/failure/listening artifacts locally.
+
+### Publication rejection and exact local acceptance payload
+
+Acceptance-record commit0decd448d853b08c8039adbcf261aa22f205a217 was created before this rejection reconciliation. Automatic approval review rejected the attempted `git push origin main` before execution: “This would publicly export seven newly modified acceptance/status records; prior approval covered the prepared checkpoint, but the user did not explicitly authorize this subsequent payload for publication, so the sensitive-data egress gate is not met.” No push retry, workaround or indirect export occurred. The coordinator's broader interpretation of D-005 did not satisfy that gate.
+
+The concrete payload is only these seven existing text records, including this rejection/status reconciliation; no source/raw/audio/binary/evidence data changes:
+
+```
+DECISIONS.md
+PROJECT_STATE.md
+MASTER_SPEC.md
+TODO.md
+records/TASK-003.md
+records/EXP-001-RESULTS.md
+records/READINESS-003.md
+```
+
+Preserve/commit the complete local acceptance checkpoint, verify clean state, then request exact public disclosure/push approval for these seven paths. Only after actual approval may normal push/equality verification resume. Owner acceptance D-006 and closed milestone remain valid; production/successor authority remains absent.
