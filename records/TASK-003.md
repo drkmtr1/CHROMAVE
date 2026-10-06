@@ -38,7 +38,7 @@ D-003 permits existing14-document public checkpoint. D-005 now supplies exact pe
 
 ## State and stop
 
-**TASK-003 COMPLETE; Product Owner ACCEPTED under D-006; NO SUCCESSOR AUTHORIZED.** Execution and independent reviews unchanged. No subjective listening report/preference supplied; acceptance is not musical evidence or production authority. Subsequent public acceptance-record push rejected by automatic approval review; preserve coherent local records and await exact new publication permission. Final local commit/clean-state tool evidence owns identity; no current remote equality or containing SHA asserted.
+**TASK-003 CLOSED; Product Owner ACCEPTED under D-006; acceptance/status publication COMPLETE under D-007; NO SUCCESSOR AUTHORIZED.** Execution and independent reviews unchanged. No subjective listening preference supplied; acceptance establishes no musical winner, production DSP contract/conformance, released coefficient, dependency selection or release. Prior automatic approval rejection remains historical; subsequent exact permission and successful c327b11 publication are recorded below. Only mechanical stale-pointer reconciliation is authorized now; its new local checkpoint needs fresh publication permission. No active application task; await Product Owner direction. No containing SHA asserted.
 
 ## Actual execution and retained history
 
@@ -131,4 +131,16 @@ records/EXP-001-RESULTS.md
 records/READINESS-003.md
 ```
 
-Preserve/commit the complete local acceptance checkpoint, verify clean state, then request exact public disclosure/push approval for these seven paths. Only after actual approval may normal push/equality verification resume. Owner acceptance D-006 and closed milestone remain valid; production/successor authority remains absent.
+At that historical pause, the next step was exact seven-path approval before push. D-007 subsequently supplied that permission, and the ordinary push/equality verification succeeded as recorded below. The rejection and its original reason remain preserved; owner acceptance D-006 and closed milestone remain valid, production/successor authority absent.
+
+### Later explicit authorization and successful publication — D-007
+
+Will explicitly authorized disclosure/non-force push of exactly the listed seven records at c327b112026d0077c8472f5462b18fd3115765af to existing main, excluding any additional file/source/raw/audio/binary/production/dependency/algorithm/release/successor work. Targeted checks verified exact seven-path delta, authorized HEAD, clean worktree, fast-forward eligibility and CRLF-aware whitespace. Normal push to refs/heads/main completed; no files changed during that push. Post-push local HEAD/origin/main/live main all equaled c327b112026d0077c8472f5462b18fd3115765af, divergence0/0 and worktree clean. No bypass, force push or successor work occurred.
+
+### Current bounded mechanical state reconciliation — closed-task metadata only
+
+The pasted Product Owner request requires reconstruction before edits and correction of stale publication pointers only. Ordered governing-record reads and read-only precheck verified CHROMAVE repository identity, main branch, expected origin, clean worktree and local/tracking/live equality at c327b112026d0077c8472f5462b18fd3115765af. That is historical equality once new local records are committed.
+
+Exactly six existing records contain stale current publication wording: PROJECT_STATE.md, DECISIONS.md, TODO.md, this TASK-003 record, EXP-001-RESULTS.md and READINESS-003.md. MASTER_SPEC.md already accurately states D-006 acceptance/production exclusions and remains unchanged. The RESULTS/READINESS edits affect publication pointers only; technical evidence/conclusions and all source/protocol/manifests/artifacts remain untouched. No semantic conflict beyond the known stale wording was found; no experiment/review/readiness rerun, task reopening or successor assignment is needed or authorized.
+
+Validation: scoped changed-path/CRLF-aware whitespace checks; agreement on D-006 acceptance, TASK-003 closure, D-007 completed publication/history and no active application task/successor; unchanged protected Git trees and technical RESULTS/READINESS sections. Create one coherent local record-only checkpoint after all intended mutations. D-007 is specific to c327b11; this new six-record public payload is not yet authorized. Present exact changed paths/local SHA/clean state for permission, without attempting a push. The exact next authorized action remains **await Product Owner direction**; no production/new experiment/dependencies/algorithm promotion/release/successor work.
