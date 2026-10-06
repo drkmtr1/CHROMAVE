@@ -19,7 +19,7 @@ For each actual material decision, record the question, selected option and rati
 
 ## Pending decisions
 
-PLAN-001 direction/M1 task are approved under D-002. D-004 accepts M1 revision3 and its three named behavior directions and authorizes bounded TASK-003/EXP-001 execution. EXP-001 musical preference/milestone acceptance, exact remaining production contracts/dependency versions, expanded source/evidence publication, production-code tasks and release remain undecided/unapproved. Questions/options or numerical/review results are not Product Owner decisions.
+PLAN-001 direction/M1 task are approved under D-002. D-004 accepts M1 revision3 and its three named behavior directions and authorizes bounded TASK-003/EXP-001 execution. D-005 permits the prepared expanded source/evidence publication. EXP-001 musical preference/milestone acceptance, exact remaining production contracts/dependency versions, production-code tasks and release remain undecided/unapproved. Questions/options or numerical/review results are not Product Owner decisions.
 
 ## D-002 — Plan approval, bounded M1 authorization and supplied Git remote
 
@@ -54,3 +54,13 @@ PLAN-001 direction/M1 task are approved under D-002. D-004 accepts M1 revision3 
 - Limits: saturation/filter/musical character, real host/state/lifecycle/latency/performance and final V1 claims remain unestablished. Experimental linear interpolation/numeric thresholds are protocol assumptions, not final production selections. Owner listening and EXP-001 milestone acceptance remain separate; no empirical result is accepted in advance.
 - Public scope: D-003's14-document disclosure remains valid. New experimental source/evidence publication is assessed as a concrete expanded payload after local work; raw multi-GB data are not implicitly authorized for GitHub upload.
 - Stop/revisit: EXP001_AWAITING_PRODUCT_OWNER_ACCEPTANCE; new bounded authority required for production/successor or material protocol changes.
+
+## D-005 — Publish the prepared EXP-001 checkpoint
+
+- Actual authorizer/provenance: Will, direct message on2026-10-05, “Please push,” replying to the explicit request to publish the prepared32-file expanded checkpoint listed in TASK-003.
+- Selected disposition: authorize public disclosure and normal push to existing origin/main at https://github.com/drkmtr1/CHROMAVE of the reviewed text/source/compact-evidence payload, based on local checkpoint d575bf05b63d05aef1f9f6629bdc5bfde5e4152e, plus mechanical permission/state/task/finding/result/readiness reconciliation within those same paths.
+- Rationale: save the prepared experiment and review evidence remotely. Alternative: keep the expanded checkpoint local; the owner selected publication.
+- Effective scope: TASK-003's32 named paths and existing14-document history; no force push, new repository, raw float/double/audio/binary/object/run-log upload or release. Source/protocol/evidence hashes and review conclusions remain unchanged.
+- Boundary: this is publication permission only. Owner audition, EXP-001 acceptance, production/dependency installation, algorithm promotion, release and successor work remain unapproved. No new Product Owner musical preference is inferred.
+- Affected records: DECISIONS, PROJECT_STATE, TODO F-011, TASK-003, EXP-001-RESULTS and READINESS-003 permission pointers. Reconcile all planned tracked records, commit, push, then verify clean local/tracking/live equality; live refs/tool evidence own final identity, no containing SHA embedded.
+- Stop/revisit: EXP001_AWAITING_PRODUCT_OWNER_ACCEPTANCE. Any new publication payload or implementation objective requires its applicable authorization.

@@ -6,7 +6,7 @@ Will explicitly answered on2026-10-05: “Accept those recommendations and autho
 
 Protocol: DESIGN-001 revision3 SHA-256 `0A29614548A4868915FCF0E13FDDD5BB9510615C3CAA5854E79144E624185769`, especially section5's10 panels/204 renders, four negative controls, event/endpoint rules, independent absolute-history oracle, fidelity limits (max1e-6/RMS2e-7), restricted1.25001 history bound, custody and listening. Preserve protocol bytes; do not change thresholds after outcomes. Owner listening remains separate from numerical fidelity and cannot be invented.
 
-Read set: AGENTS, PROJECT_STATE, MASTER_SPEC roles/requirements, DECISIONS D-002–004, TODO F-002/F-003/F-004/F-011 and later experiment findings, TASK-002, DESIGN-001, REVIEW-002/READINESS-002, this task and task-owned experimental sources/evidence. Targeted existing compiler/Python/storage/platform metadata allowed; no other projects/credentials/model/audio libraries/unrelated files.
+Read set: AGENTS, PROJECT_STATE, MASTER_SPEC roles/requirements, DECISIONS D-002–005, TODO F-002/F-003/F-004/F-011 and later experiment findings, TASK-002, DESIGN-001, REVIEW-002/READINESS-002, this task and task-owned experimental sources/evidence. Targeted existing compiler/Python/storage/platform metadata allowed; no other projects/credentials/model/audio libraries/unrelated files.
 
 Coordinator write set: this task, `records/EXP-001-RESULTS.md`, `records/REVIEW-003.md`, `records/READINESS-003.md`, DECISIONS/PROJECT_STATE/TODO/MASTER_SPEC current acceptance pointers, `.gitignore` for task-owned generated data, `experiments/exp-001/build.cmd`, `experiments/exp-001/candidate/`, `experiments/exp-001/oracle/`, `experiments/exp-001/analysis/`, `records/evidence/exp-001/` manifests/environment/checksums/listening package, and `artifacts/exp-001/` raw renders/binaries/build logs/traces/failure attempts. Preserve AGENTS/brief/PLAN/DESIGN and earlier review records.
 
@@ -34,11 +34,11 @@ Experimental file interface: CSV manifest fields `id,panel,style,mode,source,sch
 
 ## Git/publication and rollback
 
-D-003 permits existing14-document public checkpoint. New experimental sources/evidence expand that payload; prepare a concrete local checkpoint first and request exact publication approval before public push if current authority does not cover the expansion. Raw/binary/generated media remain local ignored custody artifacts with durable hashes; no deletion of failed runs. If rejected, preserve evidence, record disposition, revert only explicitly task-owned tracked experiment changes if authorized; no reset/clean/unrelated deletion.
+D-003 permits existing14-document public checkpoint. D-005 now supplies exact permission for the prepared32-path experimental source/evidence expansion and mechanical record reconciliation. Raw/binary/generated media remain local ignored custody artifacts with durable hashes; no deletion of failed runs. Normal origin/main push only. If rejected, preserve evidence/record disposition; no reset/clean/unrelated deletion or force push.
 
 ## State and stop
 
-EXP-001 execution and independent reviews complete; **EXP001_AWAITING_PRODUCT_OWNER_ACCEPTANCE**. Owner listening/disposition and expanded publication permission pending. Do not start production or a successor experiment automatically. All planned tracked records are reconciled for the local-only checkpoint; actual final commit/clean-state tool evidence owns its identity. No current remote equality or containing SHA is asserted.
+EXP-001 execution and independent reviews complete; **EXP001_AWAITING_PRODUCT_OWNER_ACCEPTANCE**. Owner listening/disposition pending; D-005 authorizes publication. Do not start production or a successor experiment automatically. All planned tracked records are reconciled for the approved public checkpoint; actual final commit/push/clean local-tracking-live tool evidence owns its identity/outcome. No containing SHA embedded.
 
 ## Actual execution and retained history
 
@@ -102,3 +102,9 @@ records/evidence/exp-001/artifact-custody.json
 ```
 
 Permission for this checkpoint would authorize ordinary main push and mechanically reconciled permission/equality records only; it would not accept EXP-001, choose a listening winner, authorize production or release, or publish raw/audio artifacts.
+
+## Actual publication continuation — D-005
+
+Will replied “Please push” to the displayed32-path publication question. Original local experiment checkpoint d575bf05b63d05aef1f9f6629bdc5bfde5e4152e and its clean state were verified before this continuation. Live main was still f66b10aa02d7a4aedcc1481de3c749cd6999a1c8 on targeted pre-push inspection. These are historical/pre-mutation observations, not final equality.
+
+Coordinator changes only six permission/state/finding/task/result/readiness records within the existing32-path payload. Experimental source, manifests, raw data, compact evidence and review conclusions unchanged; no further technical/readiness round needed for mechanical permission pointers under AGENTS/MASTER_SPEC6. Final operations: scoped CRLF-aware diff check, six-path commit, ordinary main push, clean state and local/tracking/live equality. Tool evidence owns actual outcomes; no containing SHA in records. Stop remains owner audition/EXP-001 disposition, not production or successor work.

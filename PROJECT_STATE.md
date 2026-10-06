@@ -5,7 +5,7 @@
 - Accepted design direction: **PLAN-001/M1 under D-002/D-004**; accepted runtime product baseline: **NONE**.
 - Accepted release: **NONE**.
 - Current authorized task: **TASK-003 — EXP-001 standalone experiment** (D-004).
-- Active assignments: **NONE**; independent oracle author, non-authoring technical reviewer/follow-ups and fresh distinct readiness completed. Coordinator owns final checkpoint.
+- Active assignments: **NONE**; independent oracle author, non-authoring technical reviewer/follow-ups and fresh distinct readiness completed. Coordinator owns D-005 publication reconciliation/checkpoint.
 - Product or candidate acceptance: **PLAN-001 direction approved; M1 revision3 and three behavior choices accepted under D-004; no runtime/release acceptance**.
 
 ## Startup route
@@ -14,7 +14,7 @@ The neutral baseline was verified before TASK-001. Will approved PLAN-001/M1 und
 
 ## Next authorized action
 
-**EXP001_AWAITING_PRODUCT_OWNER_ACCEPTANCE**. TASK-003 execution and applicable independent reviews are complete; final records form a local-only checkpoint. Await owner listening/disposition and exact32-path expanded-public-payload permission (TASK-003 list). A permission to push alone would authorize checkpoint publication/reconciliation only. Production plugin/dependency installs/successor work excluded; do not automatically start another task.
+**EXP001_AWAITING_PRODUCT_OWNER_ACCEPTANCE**. TASK-003 execution and applicable independent reviews are complete. D-005 authorizes the prepared32-path public checkpoint and mechanical reconciliation; coordinator completes commit/push/final verification after the last tracked mutation. The remaining owner handoff is listening/disposition. Publication does not accept EXP-001. Production plugin/dependency installs/successor work excluded; do not automatically start another task.
 
 ## Result and precise handoff
 
@@ -24,6 +24,6 @@ The neutral baseline was verified before TASK-001. Will approved PLAN-001/M1 und
 - USER REQUIREMENTS: MASTER_SPEC section9. Accepted planning direction: D-002/PLAN-001. Accepted M1 tuple/behavior directions and bounded experiment authority: D-004. Actual decisions: DECISIONS. Remaining design/production values remain advice. Continuous findings: TODO F-001–F-016.
 - EXP-001 candidate/evidence: records/EXP-001-RESULTS.md, REVIEW-003 actual technical **PASS**, READINESS-003 fresh distinct **PASS for owner presentation**, task-owned source/manifests/custody. All204 primary PASS; allfour negative controls detected; instrumented maximum state .7119159698486328; partition max/RMS0. Offline model only, no plugin/host evidence.78 fixed-gain blind clips retained locally; owner listening pending. First audible plugin build remains separately conditional.
 - Application/accepted product baseline, frozen DSP contracts, V1 feature freeze and release: **NONE**.
-- Git: local main/origin connected to owner-supplied `https://github.com/drkmtr1/CHROMAVE`; initial remote-empty observation is historical. Final TASK-003 checkpoint disposition is local-only pending expanded publication permission. Coherent local commit/clean-state verification occurs after this last planned tracked mutation; live refs/tool evidence own actual current identity, no containing SHA embedded. Current remote equality is not claimed.
+- Git: local main/origin connected to owner-supplied `https://github.com/drkmtr1/CHROMAVE`; initial remote-empty observation is historical. D-005 permits the prepared expanded TASK-003 checkpoint. Coherent commit/ordinary push/clean local-tracking-live verification occur after this last planned tracked mutation; live refs/tool evidence own actual final identity, no containing SHA embedded. Earlier tips are not current equality evidence.
 - Historical remote observation: D-003's14-document public push succeeded and local/tracking/live equality plus clean state were verified at `f66b10aa02d7a4aedcc1481de3c749cd6999a1c8`. Later D-004/TASK-003 tracked mutations invalidate that as current equality; live refs own current identity. Reconcile a new checkpoint after the last mutation before any new equality claim.
-- Current continuation: TASK-003 exact read/write/evidence set; M1 owner acceptance is now explicit D-004, not inferred from public push permission. New source/evidence publication and owner listening are separate gates.
+- Current continuation: TASK-003 exact read/write/evidence set; M1 owner acceptance is explicit D-004. Expanded source/evidence publication permission is explicit D-005; owner listening/EXP-001 acceptance remains separate and pending.

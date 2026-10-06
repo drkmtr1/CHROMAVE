@@ -18,8 +18,8 @@ F-012–F-016 original findings, corrections and verified results are preserved.
 
 Listening package provides concrete opaque alternatives and explains single-choice diagnostic groups. Owner audition/preferences PENDING; inconclusive is valid. No agent has listened or supplied subjective owner evidence. Current D-004 accepts prior named behavior direction and authorizes experiment execution, not this empirical milestone's acceptance.
 
-Proposed32-path public payload in TASK-003 requires exact expanded permission beyond D-003's14 documents. Raw/audio/binaries stay local ignored. A local checkpoint/current source evidence is not a completed remote backup.
+At assessment, the proposed32-path public payload required exact expanded permission beyond D-003's14 documents. Subsequent actual owner response supplies D-005; this mechanical disposition pointer does not change readiness advice/candidate/acceptance. Raw/audio/binaries stay local ignored. Final push/remote equality is established by coordinator tool evidence, not readiness advice.
 
 ## Disposition and stop
 
-Complete mechanical reconciliation and coherent local checkpoint, then **EXP001_AWAITING_PRODUCT_OWNER_ACCEPTANCE**. Owner listening/disposition and expanded publication remain separate external actions. No successor, production reuse/dependency install or release authority follows. No repeated readiness assessment needed solely for status-pointer reconciliation that preserves source/data/meaning/boundaries. All contributor assignments complete; coordinator performs final shared-record/checkpoint operations.
+Complete mechanical reconciliation and coherent checkpoint/applicable D-005 push, then **EXP001_AWAITING_PRODUCT_OWNER_ACCEPTANCE**. Owner listening/disposition remains separate and pending. No successor, production reuse/dependency install or release authority follows. No repeated readiness assessment needed solely for status-pointer reconciliation that preserves source/data/meaning/boundaries. All contributor assignments complete; coordinator performs final shared-record/checkpoint operations.
