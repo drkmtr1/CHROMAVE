@@ -19,7 +19,7 @@ For each actual material decision, record the question, selected option and rati
 
 ## Pending decisions
 
-PLAN-001 direction/M1 task are approved under D-002. D-004 accepts M1 revision3 and its three named behavior directions and authorizes bounded TASK-003/EXP-001 execution. D-005 permits the prepared expanded source/evidence publication. EXP-001 musical preference/milestone acceptance, exact remaining production contracts/dependency versions, production-code tasks and release remain undecided/unapproved. Questions/options or numerical/review results are not Product Owner decisions.
+PLAN-001 direction/M1 task are approved under D-002. D-004 accepts M1 revision3 and its three named behavior directions and authorizes bounded TASK-003/EXP-001 execution. D-005 permits the prepared expanded source/evidence publication; D-006 accepts the presented bounded EXP-001 milestone. A subjective listening report/alternative preference, exact remaining production contracts/dependency versions, successor tasks, production code and release remain unestablished/unapproved. Questions/options or numerical/review results are not Product Owner decisions.
 
 ## D-002 — Plan approval, bounded M1 authorization and supplied Git remote
 
@@ -64,3 +64,13 @@ PLAN-001 direction/M1 task are approved under D-002. D-004 accepts M1 revision3 
 - Boundary: this is publication permission only. Owner audition, EXP-001 acceptance, production/dependency installation, algorithm promotion, release and successor work remain unapproved. No new Product Owner musical preference is inferred.
 - Affected records: DECISIONS, PROJECT_STATE, TODO F-011, TASK-003, EXP-001-RESULTS and READINESS-003 permission pointers. Reconcile all planned tracked records, commit, push, then verify clean local/tracking/live equality; live refs/tool evidence own final identity, no containing SHA embedded.
 - Stop/revisit: EXP001_AWAITING_PRODUCT_OWNER_ACCEPTANCE. Any new publication payload or implementation objective requires its applicable authorization.
+
+## D-006 — Product Owner acceptance of EXP-001
+
+- Actual authorizer/provenance: Will, direct message on2026-10-05, “I accept,” replying to the published EXP-001 checkpoint/status explicitly awaiting Product Owner acceptance.
+- Selected disposition: accept the presented bounded standalone EXP-001 milestone/TASK-003 at published checkpoint424fb4940cafbce7013e9cdb3dd363e5a0995ee1, with actual REVIEW-003 technical PASS and distinct READINESS-003 PASS for presentation, preserving all recorded findings/history/limitations.
+- Identifiable tuple: accepted DESIGN-001 protocol0A29614548A4868915FCF0E13FDDD5BB9510615C3CAA5854E79144E624185769; frozen artifact custody191C0B55F738BCD8A7708450B538B3CDDB288EA6F5E4525B122EE66AA2705733;204 primary comparisons PASS/four altered faults detected;17 groups/78 clips prepared. No source, criterion, numerical result or review conclusion changes with this acceptance.
+- Rationale/provenance limit: the owner selected acceptance of the presented milestone; no further rationale or subjective audition report was supplied. Alternative was continued waiting/revision. Acceptance is an actual owner decision, not inferred from prior technical/readiness PASS or publication.
+- Limits: no reported audition setup/preferences/A-versus-B choice, genre usefulness, released20ms coefficient, production filter/nonlinear/host/state/real-time/native-x64 conformance, V1 freeze or release is established. No listening report or waiver of future production evidence is invented.
+- Effective scope: close TASK-003 and mechanically reconcile DECISIONS, PROJECT_STATE, MASTER_SPEC disposition pointer, TODO F-002/F-011, TASK-003, RESULTS and READINESS acceptance pointers. Existing D-005 publication permission applies to these same approved paths; commit/push/final equality after the last tracked mutation. Raw/audio/binaries remain local.
+- Boundary/stop: TASK-003 COMPLETE; no successor planning, experiment, production implementation, dependency installation, algorithm promotion or release is authorized. A new bounded assignment requires an explicit Product Owner instruction. Live refs/tool evidence own the acceptance checkpoint identity; no containing SHA embedded.
